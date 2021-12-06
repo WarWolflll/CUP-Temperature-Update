@@ -4,7 +4,7 @@
 第一步：使用 Fiddler 获取 token
 -------------------------------
 
-安装 Fiddler，在电脑微信上登录中石大填体温小程序，在 Fiddler 抓到的数据包里找到这一项并双击。
+安装 [Fiddler](https://www.telerik.com/download/fiddler)，在电脑微信上登录中石大填体温小程序，在 Fiddler 抓到的数据包里找到这一项并双击。
 
 ![1_LI](https://user-images.githubusercontent.com/35026476/144780248-b13af073-881d-47cb-b418-aaf4b57d4d38.jpg)
 
