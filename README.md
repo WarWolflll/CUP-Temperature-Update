@@ -29,7 +29,7 @@ Linux 定时任务
 
 关于 Python 发送邮件提醒
 ----------------------------
-可参考[这个教程](https://www.runoob.com/python3/python3-smtp.html)。如果不想接收邮件提醒，也可把关于邮件的都删掉，但是最好每天看一下打卡有没有成功。
+可参考[这个教程](https://www.runoob.com/python3/python3-smtp.html)。如果不想接收邮件提醒，也可把关于邮件的代码都删掉，但是最好每天看一下打卡有没有成功。
 
 祝大家填体温顺利。
 
